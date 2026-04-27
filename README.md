@@ -1,4 +1,4 @@
-#Savings Goal Tracker
+# Savings Goal Tracker
 The python program helps its users calculate how long it will take to reach a savings goal based on how much money they save eachweek . It is useful for financial planning.
 ## How to Run
 Make sure python is installed, then run:
